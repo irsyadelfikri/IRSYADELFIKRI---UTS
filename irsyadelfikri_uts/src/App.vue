@@ -13,7 +13,11 @@ import HelloWorld from './components/HelloWorld.vue'
   </div>
   <div> 
     ADAAA IRSYAAADDDDD
-  </div><HelloWorld msg="Vite + Vue" />
+  </div>
+  <div> 
+    ADAAA INDYYYYY
+  </div>
+  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
